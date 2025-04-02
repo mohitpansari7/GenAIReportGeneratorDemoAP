@@ -1,0 +1,341 @@
+{
+    "DepartmentInfo": {
+      "Name": "Panchayati Raj Department",
+      "State": "Arunachal Pradesh",
+      "ReportingPeriod": "April 2023 - March 2024",
+      "HeadOfDepartment": "Secretary, Panchayati Raj",
+      "ContactInfo": {
+        "Email": "secretary-pr@arunachal.gov.in",
+        "Phone": "+91-XXXXXXXXXX",
+        "Website": "www.arunachalpanchayat.gov.in"
+      }
+    },
+    "BudgetAnnouncements": {
+      "10%SORGrants": {
+        "TargetDate": "31.03.2025",
+        "CurrentStatus": "70% Basic Grants released, Performance Grants: Nil",
+        "Achievement": "70%",
+        "AllocatedFunds": "Rs. 163.98 Cr",
+        "UtilizedFunds": "Rs. 100.00 Cr",
+        "Beneficiaries": "All 25 districts with PRIs",
+        "KeyAchievements": [
+          "100% disbursement to 15 districts",
+          "50% disbursement to 10 districts",
+          "Focus on infrastructure development"
+        ]
+      },
+      "InfrastructureDevelopmentFunds": {
+        "TargetDate": "31.03.2025",
+        "CurrentStatus": "45% Complete",
+        "Achievement": "45%",
+        "AllocatedFunds": "Rs. 250.00 Cr",
+        "UtilizedFunds": "Rs. 112.50 Cr",
+        "Beneficiaries": "Rural communities across 18 districts",
+        "KeyAchievements": [
+          "70 infrastructure projects initiated",
+          "32 projects completed",
+          "Focus on road connectivity and water supply"
+        ]
+      },
+      "DistrictInnovationGrants": {
+        "TargetDate": "31.03.2025",
+        "CurrentStatus": "85% Complete",
+        "Achievement": "85%",
+        "AllocatedFunds": "Rs. 75.00 Cr",
+        "UtilizedFunds": "Rs. 63.75 Cr",
+        "Beneficiaries": "25 districts",
+        "KeyAchievements": [
+          "22 districts implemented innovative projects",
+          "Focus on digital solutions and local governance",
+          "5 projects selected for national recognition"
+        ]
+      }
+    },
+    "InfrastructureProjects": {
+      "RoadConstruction": {
+        "Location": "Dora village to Ambam",
+        "TargetCompletion": "31.03.2025",
+        "CurrentStatus": "50% of total project completed",
+        "Progress": "50%",
+        "AllocatedFunds": "Rs. 120.50 Cr",
+        "UtilizedFunds": "Rs. 60.25 Cr",
+        "Length": "22 km",
+        "Benefits": "Will connect 15 villages to district headquarters",
+        "Challenges": [
+          "Monsoon delays",
+          "Difficult terrain",
+          "Material transportation"
+        ]
+      },
+      "CommunityBuilding": {
+        "Location": "Bhalukpong",
+        "TargetCompletion": "30.06.2025",
+        "CurrentStatus": "75% of construction completed",
+        "Progress": "75%",
+        "AllocatedFunds": "Rs. 85.00 Cr",
+        "UtilizedFunds": "Rs. 63.75 Cr",
+        "Area": "5000 sq. meters",
+        "Capacity": "500 people",
+        "FacilitiesPlanned": [
+          "Community hall",
+          "Training center",
+          "Digital resource room",
+          "Healthcare unit"
+        ]
+      },
+      "BridgeConstruction": {
+        "Location": "Kameng River",
+        "TargetCompletion": "31.12.2025",
+        "CurrentStatus": "30% of construction completed",
+        "Progress": "30%",
+        "AllocatedFunds": "Rs. 166.68 Cr",
+        "UtilizedFunds": "Rs. 62.09 Cr",
+        "Length": "250 meters",
+        "Type": "Suspension bridge",
+        "Benefits": "Will connect 25 villages previously cut off during monsoon",
+        "Challenges": [
+          "River current strength",
+          "Material transportation",
+          "Technical expertise requirements"
+        ]
+      }
+    },
+    "GovernmentPrograms": {
+      "RashtriyaGramSwarajAbhiyan": {
+        "TargetCompletion": "31.03.2025",
+        "CurrentStatus": "60% Complete",
+        "Progress": "60%",
+        "AllocatedFunds": "Rs. 1.73 Cr",
+        "UtilizedFunds": "Rs. 1.10 Cr",
+        "CapacityBuilding": {
+          "TargetParticipants": 409,
+          "TrainedParticipants": 245,
+          "TrainingStatus": "Ongoing",
+          "TrainingModules": [
+            "Digital Governance",
+            "Financial Management",
+            "Project Planning",
+            "Community Engagement"
+          ]
+        }
+      },
+      "DigitalVillageInitiative": {
+        "TargetCompletion": "31.03.2025",
+        "CurrentStatus": "40% Complete",
+        "Progress": "40%",
+        "AllocatedFunds": "Rs. 5.25 Cr",
+        "UtilizedFunds": "Rs. 2.10 Cr",
+        "TargetVillages": 50,
+        "VillagesImplemented": 20,
+        "Components": [
+          "Wi-Fi connectivity",
+          "Digital literacy training",
+          "E-services kiosks",
+          "Solar power backup"
+        ]
+      },
+      "WomenEmpowermentProgram": {
+        "TargetCompletion": "30.09.2025",
+        "CurrentStatus": "65% Complete",
+        "Progress": "65%",
+        "AllocatedFunds": "Rs. 3.50 Cr",
+        "UtilizedFunds": "Rs. 2.28 Cr",
+        "Beneficiaries": 2500,
+        "SHGsFormed": 175,
+        "KeyInitiatives": [
+          "Skill development workshops",
+          "Microfinance support",
+          "Market linkage development",
+          "Leadership training"
+        ]
+      }
+    },
+    "EEnablement": {
+      "EOfficeImplementation": {
+        "TargetCompletion": "31.03.2025",
+        "Coverage": "Statewide",
+        "CurrentStatus": "Implemented at Directorate Level",
+        "Progress": "80%",
+        "AllocatedFunds": "Rs. 45.00 Cr",
+        "UtilizedFunds": "Rs. 36.00 Cr",
+        "KeyFeatures": [
+          "Paperless file movement",
+          "Digital signatures",
+          "Document management system",
+          "Integrated communication"
+        ],
+        "ImpactMetrics": {
+          "PaperSaved": "Approximately 3.5 tons",
+          "ProcessingTimeReduction": "65%",
+          "TransparencyImprovement": "High"
+        }
+      },
+      "OnlineServicePortal": {
+        "TargetCompletion": "30.06.2025",
+        "CurrentStatus": "65% Complete",
+        "Progress": "65%",
+        "AllocatedFunds": "Rs. 35.00 Cr",
+        "UtilizedFunds": "Rs. 22.75 Cr",
+        "ServicesPlanned": 28,
+        "ServicesImplemented": 18,
+        "MonthlyUsers": 12500,
+        "KeyServices": [
+          "Certificate applications",
+          "Tax payments",
+          "Public grievance filing",
+          "Scheme application"
+        ]
+      },
+      "GISMappingOfVillages": {
+        "TargetCompletion": "31.12.2025",
+        "CurrentStatus": "35% Complete",
+        "Progress": "35%",
+        "AllocatedFunds": "Rs. 120.00 Cr",
+        "UtilizedFunds": "Rs. 42.00 Cr",
+        "TotalVillages": 2000,
+        "VillagesMapped": 700,
+        "Applications": [
+          "Resource mapping",
+          "Disaster management",
+          "Infrastructure planning",
+          "Service delivery optimization"
+        ]
+      }
+    },
+    "PublicGrievances": {
+      "Received": 200,
+      "Resolved": 200,
+      "ResolutionRate": "100%",
+      "AverageResolutionTime": "5 days",
+      "CategoryBreakdown": {
+        "Infrastructure": 85,
+        "PublicServices": 62,
+        "SchemeImplementation": 38,
+        "Others": 15
+      },
+      "ResolutionMethods": {
+        "Direct": 120,
+        "Escalated": 65,
+        "Redirected": 15
+      }
+    },
+    "HealthInitiatives": {
+      "COVID19VaccinationDrive": {
+        "TargetCompletion": "31.03.2025",
+        "CurrentStatus": "95% Complete",
+        "Progress": "95%",
+        "AllocatedFunds": "Rs. 25.00 Cr",
+        "UtilizedFunds": "Rs. 23.75 Cr",
+        "TargetPopulation": 150000,
+        "VaccinatedPopulation": 142500,
+        "VaccinationCamps": 350
+      },
+      "PrimaryHealthCenterUpgrades": {
+        "TargetCompletion": "30.06.2025",
+        "CurrentStatus": "55% Complete",
+        "Progress": "55%",
+        "AllocatedFunds": "Rs. 60.00 Cr",
+        "UtilizedFunds": "Rs. 33.00 Cr",
+        "TotalCenters": 75,
+        "CentersUpgraded": 41,
+        "UpgradeComponents": [
+          "Medical equipment",
+          "Telemedicine facilities",
+          "Infrastructure renovation",
+          "Staff training"
+        ]
+      }
+    },
+    "Education": {
+      "SchoolTechnologyIntegration": {
+        "TargetCompletion": "31.03.2025",
+        "CurrentStatus": "70% Complete",
+        "Progress": "70%",
+        "AllocatedFunds": "Rs. 45.00 Cr",
+        "UtilizedFunds": "Rs. 31.50 Cr",
+        "TotalSchools": 500,
+        "SchoolsImplemented": 350,
+        "Components": [
+          "Computer labs",
+          "Smart classrooms",
+          "Digital learning materials",
+          "Internet connectivity"
+        ]
+      },
+      "TeacherTrainingProgram": {
+        "TargetCompletion": "30.09.2025",
+        "CurrentStatus": "80% Complete",
+        "Progress": "80%",
+        "AllocatedFunds": "Rs. 12.00 Cr",
+        "UtilizedFunds": "Rs. 9.60 Cr",
+        "TotalTeachers": 1500,
+        "TeachersTrained": 1200,
+        "TrainingAreas": [
+          "Digital pedagogy",
+          "Modern teaching methods",
+          "Assessment techniques",
+          "Inclusive education"
+        ]
+      }
+    },
+    "AgricultureAndTourism": {
+      "OrganicFarmingInitiative": {
+        "TargetCompletion": "31.03.2025",
+        "CurrentStatus": "60% Complete",
+        "Progress": "60%",
+        "AllocatedFunds": "Rs. 18.00 Cr",
+        "UtilizedFunds": "Rs. 10.80 Cr",
+        "FarmersCovered": 2500,
+        "LandCoverage": "1500 hectares",
+        "KeyComponents": [
+          "Training and capacity building",
+          "Certification support",
+          "Market linkage",
+          "Input supply"
+        ]
+      },
+      "EcoTourismDevelopment": {
+        "TargetCompletion": "31.12.2025",
+        "CurrentStatus": "40% Complete",
+        "Progress": "40%",
+        "AllocatedFunds": "Rs. 85.00 Cr",
+        "UtilizedFunds": "Rs. 34.00 Cr",
+        "SitesPlanned": 15,
+        "SitesDeveloped": 6,
+        "Components": [
+          "Eco-friendly accommodations",
+          "Trail development",
+          "Local guide training",
+          "Marketing and promotion"
+        ]
+      }
+    },
+    "KeyPerformanceIndicators": {
+      "OverallBudgetUtilization": "63.5%",
+      "AverageProjectCompletion": "58.75%",
+      "CitizenSatisfactionIndex": "78%",
+      "DigitalTransformationIndex": "62%",
+      "SustainabilityScore": "72%"
+    },
+    "FutureOutlook": {
+      "PriorityAreas": [
+        "Accelerating infrastructure projects",
+        "Expanding digital services to remote areas",
+        "Strengthening capacity building",
+        "Improving interdepartmental coordination"
+      ],
+      "NewInitiativesPlanned": [
+        "AI-based governance tools",
+        "Solar-powered village infrastructure",
+        "Advanced GIS-based planning",
+        "Comprehensive skilling program"
+      ],
+      "TargetCompletionDates": {
+        "Q1_FY2025": 6,
+        "Q2_FY2025": 8,
+        "Q3_FY2025": 5,
+        "Q4_FY2025": 10
+      }
+    }
+  }
+  

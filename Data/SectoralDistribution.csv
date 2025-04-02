@@ -1,0 +1,12 @@
+Sector,Budget_Allocation,Budget_Utilization,Projects_Count,Beneficiaries,Implementation_Percentage
+Infrastructure,372.18,186.09,35,120000,50
+E-Governance,200.00,100.80,18,250000,65
+Healthcare,85.00,56.75,12,180000,67
+Education,57.00,41.10,15,85000,75
+Agriculture,18.00,10.80,7,25000,60
+Tourism,85.00,34.00,8,NA,40
+Women Empowerment,3.50,2.28,4,2500,65
+Digital Initiatives,30.25,15.12,10,175000,50
+Public Services,15.50,12.40,14,300000,80
+Others,45.00,27.00,22,75000,60
+Total,911.43,486.34,145,1212500,59 
